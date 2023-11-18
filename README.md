@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a guy who likes to code and just started his journey :D.
 <!--
 **ppaczek04/ppaczek04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
