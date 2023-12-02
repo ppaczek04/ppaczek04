@@ -6,7 +6,7 @@ Hope you have a great day, see ya!!!
 The link: [Moja strona: ppaczek04.github.io](https://ppaczek04.github.io/)
 
 
-Link do repozytrium (fork'a).  
+Link do repozytorium (fork'a).  
 [Moj Fork](https://github.com/ppaczek04/dobb-e)  
 Linkd do samego artykułu:  
 [Artykul_link](https://arxiv.org/abs/2311.16098v1)  
