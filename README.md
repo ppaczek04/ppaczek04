@@ -4,6 +4,12 @@ I just wanted to let you know that I find working on github very useful and prog
 Hope you have a great day, see ya!!!
 # My_own_github_page
 The link: [Moja strona: ppaczek04.github.io](https://ppaczek04.github.io/)
+
+
+Link do repozytrium (fork'a).  
+[Moj Fork](https://github.com/ppaczek04/dobb-e)  
+Linkd do samego artykułu:  
+[Artykul_link](https://arxiv.org/abs/2311.16098v1)  
 <!--
 **ppaczek04/ppaczek04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
