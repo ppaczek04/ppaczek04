@@ -9,7 +9,7 @@ The link: [Moja strona: ppaczek04.github.io](https://ppaczek04.github.io/)
 Link do repozytorium (fork'a).  
 [Moj Fork](https://github.com/ppaczek04/dobb-e)  
 Linkd do samego artykułu:  
-[Artykul_link](https://arxiv.org/abs/2311.16098v1)  
+[Artykul_na_stronie_Cornella_link](https://arxiv.org/abs/2311.16098v1)  
 [Na_Papers_with_code](https://paperswithcode.com/paper/on-bringing-robots-home)
 <!--
 **ppaczek04/ppaczek04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
