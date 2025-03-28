@@ -11,8 +11,9 @@ I'm a **Computer Science and Artificial Intelligence** student at **AGH Universi
 ## 🎯 My interests
 
 - 🏐 Volleyball  
-- ♟️ Chess  
-- ☕ Coffee (brewing, tasting, and discovering new beans!)
+- ♟️ Chess
+- 🏋️‍♂️ Gym
+- ☕ Coffee
 
 Thanks for stopping by – have a great day! 😄
 
