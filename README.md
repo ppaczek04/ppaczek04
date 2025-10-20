@@ -18,4 +18,6 @@ I'm a **Computer Science and Artificial Intelligence** student at **AGH Universi
 
 Thanks for stopping by – have a great day! 😄
 
-
+<p align="center">
+  <img src="AGH.png" width="200"/>
+</p>
