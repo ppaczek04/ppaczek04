@@ -8,7 +8,7 @@ I'm a 3rd year **Computer Science and Artificial Intelligence** student at **AGH
 - 🤖  **Machine Learning**
 - ⚙️  **Data Engineering**
 
-Thanks for stopping by – have a great day! 😄
+Thanks for stopping by – have a great day!
 
 <p align="center">
   <img src="AGH.png" width="200"/>
