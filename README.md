@@ -4,17 +4,9 @@ I'm a 3rd year **Computer Science and Artificial Intelligence** student at **AGH
 
 ## What I'm currently working on
 
-- 📊 Learning **Data Analysis**
-- 🤖 Exploring **Machine Learning**
-- ⚙️ Diving into **Data Engineering**
-- 💻 Building hands-on projects (check them out below!)
-
-## My interests
-
-- 🏐 Volleyball  
-- ♟️ Chess
-- 🏋️‍♂️ Gym
-- ☕ Coffee
+- 📊  **Data Analysis**
+- 🤖  **Machine Learning**
+- ⚙️  **Data Engineering**
 
 Thanks for stopping by – have a great day! 😄
 
